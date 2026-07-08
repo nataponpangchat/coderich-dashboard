@@ -1,5 +1,5 @@
 {
-  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-06-17 22:36",
+  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-07-08 09:33",
   "docs": {
     "performance": "https://drive.google.com/file/d/1iEupVI_P1EhzQAdZG6oD5heK-8q2duAL/view",
     "status": "https://drive.google.com/file/d/1aVtxhlsnb7aBB3MMZGTZWZHs91mA6Ssc/view"
@@ -24,37 +24,37 @@
       "name": "ใบเสนอราคา",
       "accent": "#0F2D52",
       "target": [
-        20000000.0,
-        20000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0,
-        21000000.0
+        0.0,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668,
+        29166666.666666668
       ],
       "actual": [
-        36196555.27,
+        241011087.66,
+        36192555.27,
         295259594.32,
         28854862.75,
         7339527.0,
         12683875.63,
-        6548775.0,
-        0.0,
-        0.0,
+        7307351.5,
+        12727060.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "targetYtd": 250000000.0,
-      "actualYtd": 386883190.0,
-      "overYtd": 136883190.0,
-      "diffYtd": 1.54753276,
+      "targetYtd": 350000000.0,
+      "actualYtd": 641375914.1,
+      "overYtd": 291375914.1,
+      "diffYtd": 1.8325026117142857,
       "doc": "performance"
     },
     {
@@ -62,7 +62,7 @@
       "name": "ใบสั่งขาย (SO)",
       "accent": "#2E67C8",
       "target": [
-        5833333.333333333,
+        0.0,
         5833333.333333333,
         5833333.333333333,
         5833333.333333333,
@@ -76,6 +76,7 @@
         5833333.333333333
       ],
       "actual": [
+        12087327.0,
         79439.25,
         0.0,
         25410410.57,
@@ -86,13 +87,12 @@
         0.0,
         0.0,
         0.0,
-        0.0,
         0.0
       ],
       "targetYtd": 70000000.0,
-      "actualYtd": 30823386.25,
-      "overYtd": -39176613.75,
-      "diffYtd": 0.44033408928571427,
+      "actualYtd": 42910713.25,
+      "overYtd": -27089286.75,
+      "diffYtd": 0.6130101892857143,
       "doc": "performance"
     },
     {
@@ -100,7 +100,7 @@
       "name": "ยอดขาย / รายรับ",
       "accent": "#C8A55A",
       "target": [
-        5833333.333333333,
+        0.0,
         5833333.333333333,
         5833333.333333333,
         5833333.333333333,
@@ -114,13 +114,13 @@
         5833333.333333333
       ],
       "actual": [
+        0.0,
         5588265.6,
         2484382.5,
         4392993.0,
         100000.0,
         5100000.0,
         2299700.0,
-        0.0,
         0.0,
         0.0,
         0.0,
@@ -136,22 +136,22 @@
   ],
   "grossProfit": {
     "name": "กำไรขั้นต้น 35%",
-    "targetYtd": 24500000.0,
-    "actualYtd": 6987869.385,
-    "overYtd": -17512130.615000002,
+    "targetYtd": 0.0,
+    "actualYtd": 0.0,
+    "overYtd": 0.0,
     "doc": "performance"
   },
   "status": {
     "ongoingTotal": 42910713.25,
     "received": 19965341.1,
     "remaining": 22945372.15,
-    "profitEst": 8582142.65,
-    "proposalTotal": 627890277.6,
+    "profitEst": 0.0,
+    "proposalTotal": 641375914.1,
     "wonTotal": 42910713.25,
-    "lostTotal": 584979564.4,
-    "winRateValue": 0.06834110159,
-    "winRateJob": 0.2903225806,
-    "winRate": 0.06834110159
+    "lostTotal": 598465200.9,
+    "winRateValue": 0.0669041545,
+    "winRateJob": 0.2727272727,
+    "winRate": 0.0669041545
   },
   "projects": [
     {
@@ -184,7 +184,7 @@
     {
       "name": "KAVARA HOTEL งานปรับปรุงซ่อมแซม ชั้น 5-9",
       "value": 20000000.0,
-      "billed": 4662803.29,
+      "billed": 4573369.17,
       "revenue": 2000000.0,
       "remaining": 18000000.0,
       "status": "กำลังดำเนินการ",
@@ -212,15 +212,15 @@
   "ownerCounts": [
     {
       "step": "ติดต่อ",
-      "count": 30
+      "count": 32
     },
     {
       "step": "ส่ง Company Profile",
-      "count": 30
+      "count": 32
     },
     {
       "step": "นัดพบ",
-      "count": 13
+      "count": 20
     },
     {
       "step": "เยี่ยมชมสถานที่",
@@ -228,7 +228,7 @@
     },
     {
       "step": "เรียกประมูลงาน",
-      "count": 18
+      "count": 20
     }
   ],
   "clients": [],
@@ -250,51 +250,39 @@
     "performance": {
       "Revenue_Target": {
         "value": 70000000,
-        "formula": "='MONTHLY PERFORMANCE 2026'!B1",
+        "formula": "='MONTHLY PERFORMANCE 2026'!F1",
         "note": "เป้ารายรับ YTD",
         "source": "MONTHLY PERFORMANCE 2026!B1"
       },
       "Revenue_Actual": {
         "value": 19965341.1,
-        "formula": "='MONTHLY PERFORMANCE 2026'!B2",
+        "formula": "='MONTHLY PERFORMANCE 2026'!F2",
         "note": "รายรับจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!B2"
       },
       "SO_Target": {
         "value": 70000000,
-        "formula": "='MONTHLY PERFORMANCE 2026'!C1",
+        "formula": "='MONTHLY PERFORMANCE 2026'!G1",
         "note": "เป้าใบสั่งขาย YTD",
         "source": "MONTHLY PERFORMANCE 2026!C1"
       },
       "SO_Actual": {
-        "value": 30823386.25,
-        "formula": "='MONTHLY PERFORMANCE 2026'!C2",
+        "value": 42910713.25,
+        "formula": "='MONTHLY PERFORMANCE 2026'!G2",
         "note": "ใบสั่งขายจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!C2"
       },
       "Quote_Target": {
-        "value": 250000000,
-        "formula": "='MONTHLY PERFORMANCE 2026'!D1",
+        "value": 350000000,
+        "formula": "='MONTHLY PERFORMANCE 2026'!H1",
         "note": "เป้าใบเสนอราคา YTD",
         "source": "MONTHLY PERFORMANCE 2026!D1"
       },
       "Quote_Actual": {
-        "value": 386883190,
-        "formula": "='MONTHLY PERFORMANCE 2026'!D2",
+        "value": 641375914.1,
+        "formula": "='MONTHLY PERFORMANCE 2026'!H2",
         "note": "ใบเสนอราคาจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!D2"
-      },
-      "GP_Target": {
-        "value": 24500000.0,
-        "formula": "=B3*35%",
-        "note": "เป้ากำไรขั้นต้น 35% จาก Revenue_Target",
-        "source": "Dashboard_Source!B3*35%"
-      },
-      "GP_Actual": {
-        "value": 6987869.385,
-        "formula": "=B4*35%",
-        "note": "กำไรขั้นต้นจริง 35% จาก Revenue_Actual",
-        "source": "Dashboard_Source!B4*35%"
       },
       "ช่องที่เว็บอ่านได้ทันที: B3:B10": {
         "value": null,
@@ -322,14 +310,8 @@
         "note": "มูลค่าคงเหลือรับ",
         "source": "win rate!Q2"
       },
-      "Project_Estimated_Profit": {
-        "value": 8582142.65,
-        "formula": "='win rate'!S2",
-        "note": "กำไรคาดการณ์ / ช่องสรุปเดิม",
-        "source": "win rate!S2"
-      },
       "Tender_Total_Value": {
-        "value": 627890277.6,
+        "value": 641375914.1,
         "formula": "='win rate'!O4",
         "note": "มูลค่างานที่เสนอรวม",
         "source": "win rate!O4"
@@ -341,37 +323,37 @@
         "source": "win rate!P4"
       },
       "Tender_Lost_Value": {
-        "value": 584979564.4,
+        "value": 598465200.9,
         "formula": "='win rate'!Q4",
         "note": "มูลค่างานที่ไม่ได้รับเลือก",
         "source": "win rate!SQ4"
       },
       "Win_Rate_Value": {
-        "value": 0.06834110159,
+        "value": 0.0669041545,
         "formula": "='win rate'!R4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!R4"
       },
       "Win_Rate_Job": {
-        "value": 0.2903225806,
+        "value": 0.2727272727,
         "formula": "='win rate'!S4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!S4"
       },
       "Owner_Contact_Count": {
-        "value": 30,
+        "value": 32,
         "formula": "='owner status '!K4",
         "note": "จำนวนลูกค้าขั้นติดต่อ จากสรุปด้านขวา",
         "source": "owner status !K4"
       },
       "Owner_Profile_Count": {
-        "value": 30,
+        "value": 32,
         "formula": "='owner status '!K5",
         "note": "จำนวนลูกค้าขั้นส่ง Company Profile",
         "source": "owner status !K5"
       },
       "Owner_Meeting_Count": {
-        "value": 13,
+        "value": 20,
         "formula": "='owner status '!K6",
         "note": "จำนวนลูกค้าขั้นนัดพบ",
         "source": "owner status !K6"
@@ -383,7 +365,7 @@
         "source": "owner status !K7"
       },
       "Owner_Tender_Count": {
-        "value": 18,
+        "value": 20,
         "formula": "='owner status '!K8",
         "note": "จำนวนลูกค้าขั้นเรียกประมูลงาน",
         "source": "owner status !K8"
