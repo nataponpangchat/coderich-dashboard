@@ -1,5 +1,5 @@
 {
-  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-07-16 11:55",
+  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-08-01 18:45",
   "docs": {
     "performance": "https://drive.google.com/file/d/1iEupVI_P1EhzQAdZG6oD5heK-8q2duAL/view",
     "status": "https://drive.google.com/file/d/1aVtxhlsnb7aBB3MMZGTZWZHs91mA6Ssc/view"
@@ -45,16 +45,16 @@
         7339527.0,
         12683875.63,
         7307351.5,
-        32752580.0,
+        77285398.5,
         0.0,
         0.0,
         0.0,
         0.0
       ],
       "targetYtd": 350000000.0,
-      "actualYtd": 661401434.1,
-      "overYtd": 311401434.1,
-      "diffYtd": 1.8897183831428572,
+      "actualYtd": 705934252.6,
+      "overYtd": 355934252.6,
+      "diffYtd": 2.0169550074285714,
       "doc": "performance"
     },
     {
@@ -84,15 +84,15 @@
         4789589.43,
         0.0,
         0.0,
-        0.0,
+        1490000.0,
         0.0,
         0.0,
         0.0
       ],
       "targetYtd": 70000000.0,
-      "actualYtd": 42910713.25,
-      "overYtd": -27089286.75,
-      "diffYtd": 0.6130101892857143,
+      "actualYtd": 44400713.25,
+      "overYtd": -25599286.75,
+      "diffYtd": 0.6342959035714286,
       "doc": "performance"
     },
     {
@@ -121,16 +121,16 @@
         100000.0,
         5100000.0,
         2299700.0,
-        0.0,
-        0.0,
+        2573369.17,
+        350000.0,
         0.0,
         0.0,
         0.0
       ],
       "targetYtd": 70000000.0,
-      "actualYtd": 19965341.1,
-      "overYtd": -50034658.9,
-      "diffYtd": 0.2852191585714286,
+      "actualYtd": 22888710.27,
+      "overYtd": -47111289.730000004,
+      "diffYtd": 0.32698157528571425,
       "doc": "performance"
     }
   ],
@@ -142,71 +142,80 @@
     "doc": "performance"
   },
   "status": {
-    "ongoingTotal": 42910713.25,
-    "received": 19965341.1,
-    "remaining": 22945372.15,
+    "ongoingTotal": 44400713.25,
+    "received": 22888710.27,
+    "remaining": 21512002.98,
     "profitEst": 0.0,
-    "proposalTotal": 661401434.1,
-    "wonTotal": 42910713.25,
-    "lostTotal": 618490720.9,
-    "winRateValue": 0.06487847022,
-    "winRateJob": 0.25,
-    "winRate": 0.06487847022
+    "proposalTotal": 705934252.6,
+    "wonTotal": 44400713.25,
+    "lostTotal": 661533539.4,
+    "winRateValue": 0.06289638601,
+    "winRateJob": 0.2444444444,
+    "winRate": 0.06289638601
   },
   "projects": [
     {
-      "name": "Le bua FL.55",
+      "name": "='Status & win rate'!A6",
       "value": 9301652.0,
       "billed": 9301652.0,
       "revenue": 6679810.6,
       "remaining": 2621841.4,
-      "status": "กำลังดำเนินการ",
+      "status": "แล้วเสร็จ",
       "source": "summary row 12"
     },
     {
-      "name": "Le boeuf Ari 4",
+      "name": "='Status & win rate'!A13",
       "value": 2996622.0,
       "billed": 2857338.25,
       "revenue": 2746391.25,
       "remaining": 250230.75,
-      "status": "กำลังดำเนินการ",
+      "status": "แล้วเสร็จ",
       "source": "summary row 20"
     },
     {
-      "name": "รุ่งนภา เทศบาลกำแพงเพชร",
+      "name": "='Status & win rate'!A21",
       "value": 79439.25,
       "billed": 79439.25,
       "revenue": 79439.25,
       "remaining": 0.0,
-      "status": "กำลังดำเนินการ",
+      "status": "แล้วเสร็จ",
       "source": "summary row 23"
     },
     {
-      "name": "KAVARA HOTEL งานปรับปรุงซ่อมแซม ชั้น 5-9",
+      "name": "='Status & win rate'!A24",
       "value": 20000000.0,
       "billed": 6275075.64,
-      "revenue": 2000000.0,
-      "remaining": 18000000.0,
+      "revenue": 4573369.17,
+      "remaining": 15426630.83,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 32"
+      "source": "summary row 39"
     },
     {
-      "name": "โรงพยาบาลพิษณุเวช กำแพงเพชร",
+      "name": "='Status & win rate'!A40",
       "value": 10200000.0,
       "billed": 10200000.0,
       "revenue": 8160000.0,
       "remaining": 2040000.0,
-      "status": "กำลังดำเนินการ",
-      "source": "summary row 37"
+      "status": "แล้วเสร็จ",
+      "source": "summary row 43"
     },
     {
-      "name": "Khun Top_Noble Ora",
+      "name": "='Status & win rate'!A44",
       "value": 333000.0,
       "billed": 299700.0,
       "revenue": 299700.0,
       "remaining": 33300.0,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 40"
+      "source": "summary row 46"
+    },
+    {
+      "name": "='Status & win rate'!A47",
+      "value": 700000.0,
+      "billed": 350000.0,
+      "revenue": 350000.0,
+      "remaining": 350000.0,
+      "status": "กำลังดำเนินการ",
+      "source": "summary row 50"
     }
   ],
   "ownerCounts": [
@@ -228,7 +237,7 @@
     },
     {
       "step": "เรียกประมูลงาน",
-      "count": 20
+      "count": 22
     }
   ],
   "clients": [],
@@ -255,7 +264,7 @@
         "source": "MONTHLY PERFORMANCE 2026!B1"
       },
       "Revenue_Actual": {
-        "value": 19965341.1,
+        "value": 22888710.27,
         "formula": "='MONTHLY PERFORMANCE 2026'!F2",
         "note": "รายรับจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!B2"
@@ -267,7 +276,7 @@
         "source": "MONTHLY PERFORMANCE 2026!C1"
       },
       "SO_Actual": {
-        "value": 42910713.25,
+        "value": 44400713.25,
         "formula": "='MONTHLY PERFORMANCE 2026'!G2",
         "note": "ใบสั่งขายจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!C2"
@@ -279,7 +288,7 @@
         "source": "MONTHLY PERFORMANCE 2026!D1"
       },
       "Quote_Actual": {
-        "value": 661401434.1,
+        "value": 705934252.6,
         "formula": "='MONTHLY PERFORMANCE 2026'!H2",
         "note": "ใบเสนอราคาจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!D2"
@@ -293,50 +302,50 @@
     },
     "status": {
       "Project_Ongoing_Total": {
-        "value": 42910713.25,
-        "formula": "='win rate'!O2",
+        "value": 44400713.25,
+        "formula": "='Status & win rate'!O2",
         "note": "มูลค่าโครงการทั้งหมดที่กำลังดำเนินการ",
         "source": "win rate!O2"
       },
       "Project_Received": {
-        "value": 19965341.1,
-        "formula": "='win rate'!P2",
+        "value": 22888710.27,
+        "formula": "='Status & win rate'!P2",
         "note": "มูลค่าที่ได้รับเงินแล้ว",
         "source": "win rate!P2"
       },
       "Project_Remaining": {
-        "value": 22945372.15,
-        "formula": "='win rate'!Q2",
+        "value": 21512002.98,
+        "formula": "='Status & win rate'!Q2",
         "note": "มูลค่าคงเหลือรับ",
         "source": "win rate!Q2"
       },
       "Tender_Total_Value": {
-        "value": 661401434.1,
-        "formula": "='win rate'!O4",
+        "value": 705934252.6,
+        "formula": "='Status & win rate'!O4",
         "note": "มูลค่างานที่เสนอรวม",
         "source": "win rate!O4"
       },
       "Tender_Won_Value": {
-        "value": 42910713.25,
-        "formula": "='win rate'!P4",
+        "value": 44400713.25,
+        "formula": "='Status & win rate'!P4",
         "note": "มูลค่างานที่ชนะ",
         "source": "win rate!P4"
       },
       "Tender_Lost_Value": {
-        "value": 618490720.9,
-        "formula": "='win rate'!Q4",
+        "value": 661533539.4,
+        "formula": "='Status & win rate'!Q4",
         "note": "มูลค่างานที่ไม่ได้รับเลือก",
         "source": "win rate!SQ4"
       },
       "Win_Rate_Value": {
-        "value": 0.06487847022,
-        "formula": "='win rate'!R4",
+        "value": 0.06289638601,
+        "formula": "='Status & win rate'!R4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!R4"
       },
       "Win_Rate_Job": {
-        "value": 0.25,
-        "formula": "='win rate'!S4",
+        "value": 0.2444444444,
+        "formula": "='Status & win rate'!S4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!S4"
       },
@@ -365,7 +374,7 @@
         "source": "owner status !K7"
       },
       "Owner_Tender_Count": {
-        "value": 20,
+        "value": 22,
         "formula": "='owner status '!K8",
         "note": "จำนวนลูกค้าขั้นเรียกประมูลงาน",
         "source": "owner status !K8"
