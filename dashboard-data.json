@@ -1,5 +1,5 @@
 {
-  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-08-16 13:29",
+  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-08-30 11:09",
   "docs": {
     "performance": "https://drive.google.com/file/d/1iEupVI_P1EhzQAdZG6oD5heK-8q2duAL/view",
     "status": "https://drive.google.com/file/d/1aVtxhlsnb7aBB3MMZGTZWZHs91mA6Ssc/view"
@@ -46,15 +46,15 @@
         12683875.63,
         7307351.5,
         77285398.5,
-        25975630.78,
+        51912390.78,
         0.0,
         0.0,
         0.0
       ],
       "targetYtd": 350000000.0,
-      "actualYtd": 731909883.4,
-      "overYtd": 381909883.4,
-      "diffYtd": 2.0911710954285714,
+      "actualYtd": 757846643.4,
+      "overYtd": 407846643.4,
+      "diffYtd": 2.165276124,
       "doc": "performance"
     },
     {
@@ -123,14 +123,14 @@
         2299700.0,
         4613369.17,
         2051706.47,
-        0.0,
+        312000.0,
         0.0,
         0.0
       ],
       "targetYtd": 70000000.0,
-      "actualYtd": 26630416.74,
-      "overYtd": -43369583.260000005,
-      "diffYtd": 0.38043452485714285,
+      "actualYtd": 26942416.74,
+      "overYtd": -43057583.260000005,
+      "diffYtd": 0.3848916677142857,
       "doc": "performance"
     }
   ],
@@ -143,15 +143,15 @@
   },
   "status": {
     "ongoingTotal": 44390713.25,
-    "received": 26630416.74,
-    "remaining": 17760296.51,
+    "received": 26942416.74,
+    "remaining": 17448296.51,
     "profitEst": 0.0,
-    "proposalTotal": 731909883.4,
+    "proposalTotal": 757846643.4,
     "wonTotal": 44390713.25,
-    "lostTotal": 687519170.2,
-    "winRateValue": 0.06065051758,
-    "winRateJob": 0.2340425532,
-    "winRate": 0.06065051758
+    "lostTotal": 713455930.2,
+    "winRateValue": 0.05857479694,
+    "winRateJob": 0.2156862745,
+    "winRate": 0.05857479694
   },
   "projects": [
     {
@@ -221,8 +221,8 @@
       "name": "KHUN KWAN HOUSE FL.2",
       "value": 780000.0,
       "billed": 312000.0,
-      "revenue": 0.0,
-      "remaining": 780000.0,
+      "revenue": 312000.0,
+      "remaining": 468000.0,
       "status": "กำลังดำเนินการ",
       "source": "summary row 54"
     }
@@ -230,15 +230,15 @@
   "ownerCounts": [
     {
       "step": "ติดต่อ",
-      "count": 35
+      "count": 36
     },
     {
       "step": "ส่ง Company Profile",
-      "count": 35
+      "count": 36
     },
     {
       "step": "นัดพบ",
-      "count": 23
+      "count": 24
     },
     {
       "step": "เยี่ยมชมสถานที่",
@@ -246,7 +246,7 @@
     },
     {
       "step": "เรียกประมูลงาน",
-      "count": 22
+      "count": 23
     }
   ],
   "clients": [],
@@ -273,7 +273,7 @@
         "source": "MONTHLY PERFORMANCE 2026!B1"
       },
       "Revenue_Actual": {
-        "value": 26630416.74,
+        "value": 26942416.74,
         "formula": "='MONTHLY PERFORMANCE 2026'!F2",
         "note": "รายรับจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!B2"
@@ -297,7 +297,7 @@
         "source": "MONTHLY PERFORMANCE 2026!D1"
       },
       "Quote_Actual": {
-        "value": 731909883.4,
+        "value": 757846643.4,
         "formula": "='MONTHLY PERFORMANCE 2026'!H2",
         "note": "ใบเสนอราคาจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!D2"
@@ -317,19 +317,19 @@
         "source": "win rate!O2"
       },
       "Project_Received": {
-        "value": 26630416.74,
+        "value": 26942416.74,
         "formula": "='Status & win rate'!P2",
         "note": "มูลค่าที่ได้รับเงินแล้ว",
         "source": "win rate!P2"
       },
       "Project_Remaining": {
-        "value": 17760296.51,
+        "value": 17448296.51,
         "formula": "='Status & win rate'!Q2",
         "note": "มูลค่าคงเหลือรับ",
         "source": "win rate!Q2"
       },
       "Tender_Total_Value": {
-        "value": 731909883.4,
+        "value": 757846643.4,
         "formula": "='Status & win rate'!O4",
         "note": "มูลค่างานที่เสนอรวม",
         "source": "win rate!O4"
@@ -341,37 +341,37 @@
         "source": "win rate!P4"
       },
       "Tender_Lost_Value": {
-        "value": 687519170.2,
+        "value": 713455930.2,
         "formula": "='Status & win rate'!Q4",
         "note": "มูลค่างานที่ไม่ได้รับเลือก",
         "source": "win rate!SQ4"
       },
       "Win_Rate_Value": {
-        "value": 0.06065051758,
+        "value": 0.05857479694,
         "formula": "='Status & win rate'!R4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!R4"
       },
       "Win_Rate_Job": {
-        "value": 0.2340425532,
+        "value": 0.2156862745,
         "formula": "='Status & win rate'!S4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!S4"
       },
       "Owner_Contact_Count": {
-        "value": 35,
+        "value": 36,
         "formula": "='owner status '!K4",
         "note": "จำนวนลูกค้าขั้นติดต่อ จากสรุปด้านขวา",
         "source": "owner status !K4"
       },
       "Owner_Profile_Count": {
-        "value": 35,
+        "value": 36,
         "formula": "='owner status '!K5",
         "note": "จำนวนลูกค้าขั้นส่ง Company Profile",
         "source": "owner status !K5"
       },
       "Owner_Meeting_Count": {
-        "value": 23,
+        "value": 24,
         "formula": "='owner status '!K6",
         "note": "จำนวนลูกค้าขั้นนัดพบ",
         "source": "owner status !K6"
@@ -383,7 +383,7 @@
         "source": "owner status !K7"
       },
       "Owner_Tender_Count": {
-        "value": 22,
+        "value": 23,
         "formula": "='owner status '!K8",
         "note": "จำนวนลูกค้าขั้นเรียกประมูลงาน",
         "source": "owner status !K8"
