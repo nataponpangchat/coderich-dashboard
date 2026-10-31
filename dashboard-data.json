@@ -1,5 +1,5 @@
 {
-  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-10-18 16:38",
+  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-11-01 00:46",
   "docs": {
     "performance": "https://drive.google.com/file/d/1iEupVI_P1EhzQAdZG6oD5heK-8q2duAL/view",
     "status": "https://drive.google.com/file/d/1aVtxhlsnb7aBB3MMZGTZWZHs91mA6Ssc/view"
@@ -124,13 +124,13 @@
         4613369.17,
         2363706.47,
         3351601.23,
-        0.0,
+        600500.0,
         0.0
       ],
       "targetYtd": 70000000.0,
-      "actualYtd": 30294017.97,
-      "overYtd": -39705982.03,
-      "diffYtd": 0.43277168528571425,
+      "actualYtd": 30894517.97,
+      "overYtd": -39105482.03,
+      "diffYtd": 0.4413502567142857,
       "doc": "performance"
     }
   ],
@@ -143,14 +143,14 @@
   },
   "status": {
     "ongoingTotal": 46169923.25,
-    "received": 30294017.97,
-    "remaining": 15875905.28,
+    "received": 30894517.97,
+    "remaining": 15275405.28,
     "profitEst": 0.0,
     "proposalTotal": 766366417.3,
     "wonTotal": 46169923.25,
     "lostTotal": 720196494.0,
     "winRateValue": 0.06024523284,
-    "winRateJob": 0.2857142857,
+    "winRateJob": 0.2807017544,
     "winRate": 0.06024523284
   },
   "projects": [
@@ -211,7 +211,7 @@
     {
       "name": "8.MILA KOH LARN GUEST ROOM TYPE A FL.1",
       "value": 900000.0,
-      "billed": 665000.0,
+      "billed": 900000.0,
       "revenue": 665000.0,
       "remaining": 235000.0,
       "status": "กำลังดำเนินการ",
@@ -239,8 +239,8 @@
       "name": "11.KHUN PORLEE HOUSE FL.3",
       "value": 825000.0,
       "billed": 660000.0,
-      "revenue": 330000.0,
-      "remaining": 495000.0,
+      "revenue": 660000.0,
+      "remaining": 165000.0,
       "status": "กำลังดำเนินการ",
       "source": "summary row 63"
     },
@@ -248,8 +248,8 @@
       "name": "12.KHUN PORLEE HOUSE FL.3",
       "value": 15000.0,
       "billed": 10500.0,
-      "revenue": 0.0,
-      "remaining": 15000.0,
+      "revenue": 10500.0,
+      "remaining": 4500.0,
       "status": "กำลังดำเนินการ",
       "source": "summary row 66"
     },
@@ -257,8 +257,8 @@
       "name": "13.TOSTEM SHOWROOM",
       "value": 650000.0,
       "billed": 260000.0,
-      "revenue": 0.0,
-      "remaining": 650000.0,
+      "revenue": 260000.0,
+      "remaining": 390000.0,
       "status": "กำลังดำเนินการ",
       "source": "summary row 70"
     }
@@ -266,15 +266,15 @@
   "ownerCounts": [
     {
       "step": "ติดต่อ",
-      "count": 39
+      "count": 40
     },
     {
       "step": "ส่ง Company Profile",
-      "count": 39
+      "count": 40
     },
     {
       "step": "นัดพบ",
-      "count": 27
+      "count": 28
     },
     {
       "step": "เยี่ยมชมสถานที่",
@@ -282,7 +282,7 @@
     },
     {
       "step": "เรียกประมูลงาน",
-      "count": 26
+      "count": 27
     }
   ],
   "clients": [],
@@ -309,7 +309,7 @@
         "source": "MONTHLY PERFORMANCE 2026!B1"
       },
       "Revenue_Actual": {
-        "value": 30294017.97,
+        "value": 30894517.97,
         "formula": "='MONTHLY PERFORMANCE 2026'!F2",
         "note": "รายรับจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!B2"
@@ -353,13 +353,13 @@
         "source": "win rate!O2"
       },
       "Project_Received": {
-        "value": 30294017.97,
+        "value": 30894517.97,
         "formula": "='Status & win rate'!P2",
         "note": "มูลค่าที่ได้รับเงินแล้ว",
         "source": "win rate!P2"
       },
       "Project_Remaining": {
-        "value": 15875905.28,
+        "value": 15275405.28,
         "formula": "='Status & win rate'!Q2",
         "note": "มูลค่าคงเหลือรับ",
         "source": "win rate!Q2"
@@ -389,25 +389,25 @@
         "source": "win rate!R4"
       },
       "Win_Rate_Job": {
-        "value": 0.2857142857,
+        "value": 0.2807017544,
         "formula": "='Status & win rate'!S4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!S4"
       },
       "Owner_Contact_Count": {
-        "value": 39,
+        "value": 40,
         "formula": "='owner status '!K4",
         "note": "จำนวนลูกค้าขั้นติดต่อ จากสรุปด้านขวา",
         "source": "owner status !K4"
       },
       "Owner_Profile_Count": {
-        "value": 39,
+        "value": 40,
         "formula": "='owner status '!K5",
         "note": "จำนวนลูกค้าขั้นส่ง Company Profile",
         "source": "owner status !K5"
       },
       "Owner_Meeting_Count": {
-        "value": 27,
+        "value": 28,
         "formula": "='owner status '!K6",
         "note": "จำนวนลูกค้าขั้นนัดพบ",
         "source": "owner status !K6"
@@ -419,7 +419,7 @@
         "source": "owner status !K7"
       },
       "Owner_Tender_Count": {
-        "value": 26,
+        "value": 27,
         "formula": "='owner status '!K8",
         "note": "จำนวนลูกค้าขั้นเรียกประมูลงาน",
         "source": "owner status !K8"
