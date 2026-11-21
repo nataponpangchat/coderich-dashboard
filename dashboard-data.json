@@ -1,5 +1,5 @@
 {
-  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-11-07 22:38",
+  "generatedAt": "อัปเดตจาก Google Drive ล่าสุด 2026-11-22 03:25",
   "docs": {
     "performance": "https://drive.google.com/file/d/1iEupVI_P1EhzQAdZG6oD5heK-8q2duAL/view",
     "status": "https://drive.google.com/file/d/1aVtxhlsnb7aBB3MMZGTZWZHs91mA6Ssc/view"
@@ -87,12 +87,12 @@
         1480000.0,
         1114210.0,
         665000.0,
-        0.0
+        1100000.0
       ],
       "targetYtd": 70000000.0,
-      "actualYtd": 46169923.25,
-      "overYtd": -23830076.75,
-      "diffYtd": 0.6595703321428571,
+      "actualYtd": 47269923.25,
+      "overYtd": -22730076.75,
+      "diffYtd": 0.6752846178571429,
       "doc": "performance"
     },
     {
@@ -125,12 +125,12 @@
         2363706.47,
         3351601.23,
         600500.0,
-        3352920.49
+        6875477.67
       ],
       "targetYtd": 70000000.0,
-      "actualYtd": 34247438.46,
-      "overYtd": -35752561.54,
-      "diffYtd": 0.4892491208571429,
+      "actualYtd": 37769995.64,
+      "overYtd": -32230004.36,
+      "diffYtd": 0.5395713662857143,
       "doc": "performance"
     }
   ],
@@ -142,16 +142,16 @@
     "doc": "performance"
   },
   "status": {
-    "ongoingTotal": 46169923.25,
-    "received": 34247438.46,
-    "remaining": 11922484.79,
+    "ongoingTotal": 47269923.25,
+    "received": 37769995.64,
+    "remaining": 9499927.61,
     "profitEst": 0.0,
     "proposalTotal": 790586438.2,
-    "wonTotal": 46169923.25,
-    "lostTotal": 744416514.9,
-    "winRateValue": 0.05839958924,
-    "winRateJob": 0.275862069,
-    "winRate": 0.05839958924
+    "wonTotal": 47269923.25,
+    "lostTotal": 743316514.9,
+    "winRateValue": 0.05979096145,
+    "winRateJob": 0.2580645161,
+    "winRate": 0.05979096145
   },
   "projects": [
     {
@@ -184,11 +184,11 @@
     {
       "name": "4.KAVARA HOTEL งานปรับปรุงซ่อมแซม ชั้น 5-9",
       "value": 20000000.0,
-      "billed": 14986660.79,
-      "revenue": 11883313.61,
-      "remaining": 8116686.39,
+      "billed": 17343073.66,
+      "revenue": 14986660.79,
+      "remaining": 5013339.21,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 39"
+      "source": "summary row 40"
     },
     {
       "name": "6.โรงพยาบาลพิษณุเวช กำแพงเพชร",
@@ -197,7 +197,7 @@
       "revenue": 10200000.0,
       "remaining": 0.0,
       "status": "แล้วเสร็จ",
-      "source": "summary row 43"
+      "source": "summary row 44"
     },
     {
       "name": "7.NOBLE ORA",
@@ -206,7 +206,7 @@
       "revenue": 299700.0,
       "remaining": 33300.0,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 46"
+      "source": "summary row 47"
     },
     {
       "name": "8.MILA KOH LARN GUEST ROOM TYPE A FL.1",
@@ -214,44 +214,44 @@
       "billed": 900000.0,
       "revenue": 665000.0,
       "remaining": 235000.0,
-      "status": "กำลังดำเนินการ",
-      "source": "summary row 52"
+      "status": "แล้วเสร็จ",
+      "source": "summary row 53"
     },
     {
       "name": "9.KHUN KWAN HOUSE FL.2",
       "value": 780000.0,
-      "billed": 624000.0,
+      "billed": 780000.0,
       "revenue": 624000.0,
       "remaining": 156000.0,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 56"
+      "source": "summary row 57"
     },
     {
       "name": "10.บ้านพักระยองนายกรุจน์",
       "value": 89210.0,
-      "billed": 0.0,
-      "revenue": 0.0,
-      "remaining": 89210.0,
-      "status": "กำลังดำเนินการ",
-      "source": "summary row 59"
+      "billed": 89210.0,
+      "revenue": 89210.0,
+      "remaining": 0.0,
+      "status": "แล้วเสร็จ",
+      "source": "summary row 60"
     },
     {
       "name": "11.KHUN PORLEE HOUSE FL.3",
       "value": 825000.0,
-      "billed": 660000.0,
+      "billed": 825000.0,
       "revenue": 660000.0,
       "remaining": 165000.0,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 63"
+      "source": "summary row 64"
     },
     {
       "name": "12.KHUN PORLEE HOUSE FL.3",
       "value": 15000.0,
-      "billed": 10500.0,
+      "billed": 15000.0,
       "revenue": 10500.0,
       "remaining": 4500.0,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 66"
+      "source": "summary row 67"
     },
     {
       "name": "13.TOSTEM SHOWROOM",
@@ -260,13 +260,22 @@
       "revenue": 260000.0,
       "remaining": 390000.0,
       "status": "กำลังดำเนินการ",
-      "source": "summary row 70"
+      "source": "summary row 71"
+    },
+    {
+      "name": "14.PERFECT PLACE RAM174",
+      "value": 1100000.0,
+      "billed": 330000.0,
+      "revenue": 330000.0,
+      "remaining": 770000.0,
+      "status": "กำลังดำเนินการ",
+      "source": "summary row 76"
     }
   ],
   "ownerCounts": [
     {
       "step": "ติดต่อ",
-      "count": 40
+      "count": 41
     },
     {
       "step": "ส่ง Company Profile",
@@ -282,7 +291,7 @@
     },
     {
       "step": "เรียกประมูลงาน",
-      "count": 27
+      "count": 28
     }
   ],
   "clients": [],
@@ -309,7 +318,7 @@
         "source": "MONTHLY PERFORMANCE 2026!B1"
       },
       "Revenue_Actual": {
-        "value": 34247438.46,
+        "value": 37769995.64,
         "formula": "='MONTHLY PERFORMANCE 2026'!F2",
         "note": "รายรับจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!B2"
@@ -321,7 +330,7 @@
         "source": "MONTHLY PERFORMANCE 2026!C1"
       },
       "SO_Actual": {
-        "value": 46169923.25,
+        "value": 47269923.25,
         "formula": "='MONTHLY PERFORMANCE 2026'!G2",
         "note": "ใบสั่งขายจริง YTD",
         "source": "MONTHLY PERFORMANCE 2026!C2"
@@ -347,19 +356,19 @@
     },
     "status": {
       "Project_Ongoing_Total": {
-        "value": 46169923.25,
+        "value": 47269923.25,
         "formula": "='Status & win rate'!O2",
         "note": "มูลค่าโครงการทั้งหมดที่กำลังดำเนินการ",
         "source": "win rate!O2"
       },
       "Project_Received": {
-        "value": 34247438.46,
+        "value": 37769995.64,
         "formula": "='Status & win rate'!P2",
         "note": "มูลค่าที่ได้รับเงินแล้ว",
         "source": "win rate!P2"
       },
       "Project_Remaining": {
-        "value": 11922484.79,
+        "value": 9499927.61,
         "formula": "='Status & win rate'!Q2",
         "note": "มูลค่าคงเหลือรับ",
         "source": "win rate!Q2"
@@ -371,31 +380,31 @@
         "source": "win rate!O4"
       },
       "Tender_Won_Value": {
-        "value": 46169923.25,
+        "value": 47269923.25,
         "formula": "='Status & win rate'!P4",
         "note": "มูลค่างานที่ชนะ",
         "source": "win rate!P4"
       },
       "Tender_Lost_Value": {
-        "value": 744416514.9,
+        "value": 743316514.9,
         "formula": "='Status & win rate'!Q4",
         "note": "มูลค่างานที่ไม่ได้รับเลือก",
         "source": "win rate!SQ4"
       },
       "Win_Rate_Value": {
-        "value": 0.05839958924,
+        "value": 0.05979096145,
         "formula": "='Status & win rate'!R4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!R4"
       },
       "Win_Rate_Job": {
-        "value": 0.275862069,
+        "value": 0.2580645161,
         "formula": "='Status & win rate'!S4",
         "note": "อัตรา Win Rate = งานชนะ / งานเสนอรวม",
         "source": "win rate!S4"
       },
       "Owner_Contact_Count": {
-        "value": 40,
+        "value": 41,
         "formula": "='owner status '!K4",
         "note": "จำนวนลูกค้าขั้นติดต่อ จากสรุปด้านขวา",
         "source": "owner status !K4"
@@ -419,7 +428,7 @@
         "source": "owner status !K7"
       },
       "Owner_Tender_Count": {
-        "value": 27,
+        "value": 28,
         "formula": "='owner status '!K8",
         "note": "จำนวนลูกค้าขั้นเรียกประมูลงาน",
         "source": "owner status !K8"
